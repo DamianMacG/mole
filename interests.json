@@ -1,71 +1,128 @@
 [
   {
-    "username": "P-Copley",
-    "interests": [
-      "coding",
-      "gaming",
-      "double lunches",
-      "brazilian jiu jitsu",
-      "living of past glory"
-    ]
+    "person": {
+      "username": "mallionaire",
+      "interests": [
+        "Theatre",
+        "Reading",
+        "Scrabble"
+      ]
+    }
   },
   {
-    "username": "antariess",
-    "interests": [
-      "reading",
-      "fussing the cat",
-      "gaming",
-      "coding",
-      "staring blanky in space"
-    ]
+    "person": {
+      "username": "antariess",
+      "interests": [
+        "reading",
+        "fussing the cat",
+        "gaming",
+        "coding",
+        "staring blanky in space"
+      ]
+    }
   },
   {
-    "username": "mallionaire",
-    "interests": ["Theatre", "Reading", "Scrabble"]
+    "person": {
+      "username": "P-Copley",
+      "interests": [
+        "coding",
+        "gaming",
+        "double lunches",
+        "brazilian jiu jitsu",
+        "living of past glory"
+      ]
+    }
   },
   {
-    "username": "icellusedkars",
-    "interests": [
-      "code",
-      "needlessly quoting poetry",
-      "the rm -rf command",
-      "armchair activism"
-    ]
+    "person": {
+      "username": "icellusedkars",
+      "interests": [
+        "code",
+        "needlessly quoting poetry",
+        "the rm -rf command",
+        "armchair activism"
+      ]
+    }
   },
   {
-    "username": "SarahBrowncross",
-    "interests": ["ancient agriculture", "space travel"]
+    "person": {
+      "username": "SarahBrowncross",
+      "interests": [
+        "ancient agriculture",
+        "space travel"
+      ]
+    }
   },
   {
-    "username": "Liam310",
-    "interests": ["gaming", "singing", "shoehorning maths into conversations"]
-  },
-  { "username": "lucy_g", "interests": ["kittens", "dogs"] },
-  { "username": "AnthonyMedina", "interests": ["Bouldering", "coding"] },
-  {
-    "username": "rogersop",
-    "interests": [
-      "food",
-      "drink",
-      "code",
-      "marquee",
-      "fantasy football",
-      "actual football"
-    ]
+    "person": {
+      "username": "Liam310",
+      "interests": [
+        "gaming",
+        "singing",
+        "shoehorning maths into conversations"
+      ]
+    }
   },
   {
-    "username": "RuthYMNg",
-    "interests": [
-      "contemporary metaphysics",
-      "cosmology",
-      "writing semi-archaic JavaScript",
-      "hiking",
-      "painting watercolours"
-    ]
+    "person": {
+      "username": "AnthonyMedina",
+      "interests": [
+        "Bouldering",
+        "coding"
+      ]
+    }
   },
   {
-    "username": "amy_wild",
-    "interests": ["live music", "mozart", "metallica"]
+    "person": {
+      "username": "lucy_g",
+      "interests": [
+        "kittens",
+        "dogs"
+      ]
+    }
   },
-  { "username": "daviidbartlett", "interests": ["Coffee", "Running"] }
+  {
+    "person": {
+      "username": "daviidbartlett",
+      "interests": [
+        "Coffee",
+        "Running"
+      ]
+    }
+  },
+  {
+    "person": {
+      "username": "rogersop",
+      "interests": [
+        "food",
+        "drink",
+        "code",
+        "marquee",
+        "fantasy football",
+        "actual football"
+      ]
+    }
+  },
+  {
+    "person": {
+      "username": "RuthYMNg",
+      "interests": [
+        "contemporary metaphysics",
+        "cosmology",
+        "writing semi-archaic JavaScript",
+        "hiking",
+        "painting watercolours"
+      ]
+    }
+  },
+  {
+    "person": {
+      "username": "amy_wild",
+      "interests": [
+        "live music",
+        "mozart",
+        "metallica"
+      ]
+    }
+  }
 ]
