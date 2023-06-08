@@ -7,7 +7,7 @@
 
     Task 1
 
-    Write a function called `getPeople` that will retrieve list of all the available people on the `northcoders` server . This should: Use node's `https` module to make a request to `https://nc-leaks.herokuapp.com/api/people`.\n2. Once you have the response as a useable object, look through the people to find anyone who has `northcoders` as the workplace. Save these `northcoders` employees to a file called `northcoders.json` - remember that the data argument of `fs.writeFile` must be of type string so you may need to manipulate the data before saving it. _Or Buffer, Typedarray or DataView but these won't be as relevant to you!
+    Write a function called `getPeople` that will retrieve list of all the available people on the `northcoders` server . This should: Use node's `https` module to make a request to `https://nc-leaks.herokuapp.com/api/people`. Once you have the response as a useable object, look through the people to find anyone who has `northcoders` as the workplace. Save these `northcoders` employees to a file called `northcoders.json` - remember that the data argument of `fs.writeFile` must be of type string so you may need to manipulate the data before saving it. _Or Buffer, Typedarray or DataView but these won't be as relevant to you!
     Note: If you have `prettier` installed, you can go into this `.json` file, press save and prettier can format your data in a more readable way.
 
     Task 2
