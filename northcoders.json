@@ -1,5 +1,5 @@
-[
-  {
+
+  [{
     "firstName": "Haz",
     "lastName": "Mallion",
     "job": {
@@ -130,5 +130,4 @@
     },
     "img_url": "https://images.prismic.io/northcoders/254ea17a-4e92-4b33-843d-c749fc9215b7_David+Headshot+May+2021.jpg?auto=compress%2Cformat&rect=0%2C0%2C3600%2C3600&w=800&fit=max&q=60",
     "username": "daviidbartlett"
-  }
-]
+  }]
