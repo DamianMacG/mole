@@ -12,13 +12,31 @@ function getPeople() {
     response.on("data", (packet) => {
       body += packet.toString();
     });
-    console.log(request);
 
     response.on("end", () => {
       const parsedBody = JSON.parse(body);
+      console.log(parsedBody.job);
+      const people = parsedBody.people;
+      const workers = people.filter(
+        (work) => work.job.workplace === "northcoders"
+      );
+      console.log(workers);
     });
   });
   request.end();
 }
 
 getPeople();
+
+// Haz Mallion
+// Paul Copley
+// Sam Caine
+// Vel Georgieva
+// Sarah Browncross
+// Liam Duncan
+// Ant Medina
+// Lucy Galway
+// Paul Rogerson
+// Ruth Ng
+// Amy Wild
+// David Bartlett
