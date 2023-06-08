@@ -1,16 +1,16 @@
 [
   {
     "person": {
-      "username": "antariess",
+      "username": "mallionaire",
       "pets": [
         {
-          "name": "Opal",
-          "kind": "cat",
-          "alive": true
+          "name": "Holly",
+          "kind": "hamster",
+          "alive": false
         },
         {
-          "name": "Jeffry",
-          "kind": "cat",
+          "name": "James Pond",
+          "kind": "goldfish",
           "alive": false
         }
       ]
@@ -35,18 +35,6 @@
   },
   {
     "person": {
-      "username": "lucy_g",
-      "pets": [
-        {
-          "name": "Polly",
-          "kind": "cat",
-          "alive": true
-        }
-      ]
-    }
-  },
-  {
-    "person": {
       "username": "SarahBrowncross",
       "pets": [
         {
@@ -64,17 +52,29 @@
   },
   {
     "person": {
-      "username": "mallionaire",
+      "username": "antariess",
       "pets": [
         {
-          "name": "Holly",
-          "kind": "hamster",
-          "alive": false
+          "name": "Opal",
+          "kind": "cat",
+          "alive": true
         },
         {
-          "name": "James Pond",
-          "kind": "goldfish",
+          "name": "Jeffry",
+          "kind": "cat",
           "alive": false
+        }
+      ]
+    }
+  },
+  {
+    "person": {
+      "username": "lucy_g",
+      "pets": [
+        {
+          "name": "Polly",
+          "kind": "cat",
+          "alive": true
         }
       ]
     }
@@ -93,17 +93,17 @@
   },
   {
     "person": {
-      "username": "Liam310",
+      "username": "rogersop",
       "pets": [
         {
-          "name": "Rodriguez",
-          "kind": "llama",
-          "alive": true
+          "name": "Dave",
+          "kind": "cat",
+          "alive": false
         },
         {
-          "name": "Jean-Luc Picard",
-          "kind": "octopus",
-          "alive": true
+          "name": "Pinchy",
+          "kind": "lobster",
+          "alive": false
         }
       ]
     }
@@ -122,17 +122,17 @@
   },
   {
     "person": {
-      "username": "rogersop",
+      "username": "Liam310",
       "pets": [
         {
-          "name": "Dave",
-          "kind": "cat",
-          "alive": false
+          "name": "Rodriguez",
+          "kind": "llama",
+          "alive": true
         },
         {
-          "name": "Pinchy",
-          "kind": "lobster",
-          "alive": false
+          "name": "Jean-Luc Picard",
+          "kind": "octopus",
+          "alive": true
         }
       ]
     }

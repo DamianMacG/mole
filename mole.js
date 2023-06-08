@@ -85,6 +85,16 @@ function getPets() {
   }
 }
 
-getPets();
-getInterests();
-getPeople();
+async function scavengeForNcData() {
+  getPeople();
+
+  await getInterests();
+
+  await getPets();
+}
+
+// getPets();
+// getInterests();
+// getPeople();
+
+scavengeForNcData();

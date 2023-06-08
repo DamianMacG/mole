@@ -11,18 +11,6 @@
   },
   {
     "person": {
-      "username": "antariess",
-      "interests": [
-        "reading",
-        "fussing the cat",
-        "gaming",
-        "coding",
-        "staring blanky in space"
-      ]
-    }
-  },
-  {
-    "person": {
       "username": "P-Copley",
       "interests": [
         "coding",
@@ -30,6 +18,27 @@
         "double lunches",
         "brazilian jiu jitsu",
         "living of past glory"
+      ]
+    }
+  },
+  {
+    "person": {
+      "username": "SarahBrowncross",
+      "interests": [
+        "ancient agriculture",
+        "space travel"
+      ]
+    }
+  },
+  {
+    "person": {
+      "username": "antariess",
+      "interests": [
+        "reading",
+        "fussing the cat",
+        "gaming",
+        "coding",
+        "staring blanky in space"
       ]
     }
   },
@@ -46,15 +55,6 @@
   },
   {
     "person": {
-      "username": "SarahBrowncross",
-      "interests": [
-        "ancient agriculture",
-        "space travel"
-      ]
-    }
-  },
-  {
-    "person": {
       "username": "Liam310",
       "interests": [
         "gaming",
@@ -65,28 +65,10 @@
   },
   {
     "person": {
-      "username": "AnthonyMedina",
-      "interests": [
-        "Bouldering",
-        "coding"
-      ]
-    }
-  },
-  {
-    "person": {
       "username": "lucy_g",
       "interests": [
         "kittens",
         "dogs"
-      ]
-    }
-  },
-  {
-    "person": {
-      "username": "daviidbartlett",
-      "interests": [
-        "Coffee",
-        "Running"
       ]
     }
   },
@@ -105,6 +87,16 @@
   },
   {
     "person": {
+      "username": "amy_wild",
+      "interests": [
+        "live music",
+        "mozart",
+        "metallica"
+      ]
+    }
+  },
+  {
+    "person": {
       "username": "RuthYMNg",
       "interests": [
         "contemporary metaphysics",
@@ -117,11 +109,19 @@
   },
   {
     "person": {
-      "username": "amy_wild",
+      "username": "daviidbartlett",
       "interests": [
-        "live music",
-        "mozart",
-        "metallica"
+        "Coffee",
+        "Running"
+      ]
+    }
+  },
+  {
+    "person": {
+      "username": "AnthonyMedina",
+      "interests": [
+        "Bouldering",
+        "coding"
       ]
     }
   }

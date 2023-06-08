@@ -22,5 +22,7 @@
     Task 4
 
     Automation is great. Create a function called `scavengeForNcData` that uses all of the functions you created in Tasks 1-3 to automate your hunt for data.
-    Note: Remember `getInterests` and `getPets` must only be used when you can be sure that the `northcoders.json` has finished being created. Considering these are all asynchronous functions, how can you ensure this? Additional Challenges: Use a library such as [`superagent`](https://github.com/visionmedia/superagent) to make your requests easier to handle. Refactor your pets in interests requests to use superagent instead of node's http module.
+    Note: Remember `getInterests` and `getPets` must only be used when you can be sure that the `northcoders.json` has finished being created. Considering these are all asynchronous functions, how can you ensure this? 
+    
+    Additional Challenges: Use a library such as [`superagent`](https://github.com/visionmedia/superagent) to make your requests easier to handle. Refactor your pets in interests requests to use superagent instead of node's http module.
     "tips": "Hello again, Detective. Save the instructions to a file to decrypt your tasks."
